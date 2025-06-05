@@ -1,0 +1,1 @@
+# script para gerar token.json localmente (placeholder)
